@@ -40,6 +40,8 @@ Qualitative and quantitative inputs on:
 Consumer attitudes
 Readiness towards online medical services
 
+Some of the screenshots are displayed below:
+
 ![image](https://github.com/VishCraft/Medical-Market-segemtation/assets/144891820/6d0ed848-7319-4822-92d5-b23475a15c11)
 
 ![image](https://github.com/VishCraft/Medical-Market-segemtation/assets/144891820/dad49c49-79ad-443c-9bca-6bbd9aa3714e)
@@ -47,8 +49,7 @@ Readiness towards online medical services
 ![image](https://github.com/VishCraft/Medical-Market-segemtation/assets/144891820/3d5f9fb2-d9cf-487e-ad37-72e8852648bf)
 
 
-
-
+The description document is uploaded above for project reference.
 
 
 
